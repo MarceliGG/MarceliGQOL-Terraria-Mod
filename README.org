@@ -1,0 +1,8 @@
+#+TITLE: MarceliG's QOL Terraria Mod
+
+* Table Of Contents :toc:
+- [[#about][About]]
+
+* About
+This is a qol mod for terraria.
+Right now it is in early stages of development so it does not have many features.
