@@ -1,3 +1,6 @@
 This is a qol mod for terraria.
 Right now it is in early stages of development so it does not have many features.
 Up to date description should be on github: https://github.com/MarceliGG/MarceliGQOL-Terraria-Mod
+    
+Features:
+ - Quick Use Items from bottom inventory row
