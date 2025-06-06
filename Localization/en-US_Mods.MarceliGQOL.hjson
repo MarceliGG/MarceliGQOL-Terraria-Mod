@@ -11,3 +11,29 @@ Keybinds: {
 	"Quick Use 3.DisplayName": Quick  Use 3
 	"Quick Use 2.DisplayName": Quick  Use 2
 }
+
+Configs: {
+	ServerConfig: {
+		DisplayName: Server Config
+
+		DisableUnlimitedBuffs: {
+			Label: Disable Unlimited Buffs
+			Tooltip: Global toggle for unlimited buffs.
+		}
+
+		UnlimitedPotions: {
+			Label: Unlimited Potions
+			Tooltip: Minimum amount of potions to apply buff(potions must be in player's safe). '0' to disable. default: '30'
+		}
+
+		UnlimitedStations: {
+			Label: Unlimited Stations
+			Tooltip: Minimum amount of stations(Campfile, heart lantern, etc.) to apply buff(stations must be in player's safe). '0' to disable. default: '10'
+		}
+
+		UnlimitedRClickStations: {
+			Label: Unlimited R Click Stations
+			Tooltip: Wheather to enable unlimited Right-clickable stations(Sharpening, Bewitching, etc.)(stations must be in player's safe). default: 'frue'
+		}
+	}
+}
