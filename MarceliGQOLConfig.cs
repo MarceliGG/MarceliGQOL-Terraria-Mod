@@ -7,6 +7,7 @@ public class ServerConfig : ModConfig {
 	public static ServerConfig Instance;
 	public override ConfigScope Mode => ConfigScope.ServerSide;
 
+    [Header("$Mods.MarceliGQOL.Configs.ServerConfig.Headers.UnlimitedBuffs")]
 	[DefaultValue(false)]
 	public bool DisableUnlimitedBuffs;
 
@@ -20,5 +21,9 @@ public class ServerConfig : ModConfig {
 
     [DefaultValue(true)]
     public bool UnlimitedRClickStations;
+
+    [Header("$Mods.MarceliGQOL.Configs.ServerConfig.Headers.AccesorySlots")]
+	[DefaultValue(true)]
+	public bool WingSlot;
 }
 

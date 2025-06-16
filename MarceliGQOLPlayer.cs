@@ -107,6 +107,9 @@ namespace MarceliGQOL {
                         case ItemID.HeartLantern:
                             if (ServerConfig.Instance.UnlimitedStations > 0 && item.stack >= ServerConfig.Instance.UnlimitedStations) Player.AddBuff(BuffID.HeartLamp, 2);
                             break;
+                        default:
+                            Player.RefreshInfoAccsFromItemType(item);
+                            break;
                     }
                 }
             }

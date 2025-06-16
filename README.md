@@ -6,4 +6,6 @@ This is a small qol mod for terraria.
  - Quick Use Items from bottom inventory row with keybinds
  - Unlimited Potions (in Safe)
  - Unlimited Stations (in Safe)
- - Configurable (amount of potions/stations for buff)
+ - Informational Accesories in Safe
+ - Configurable
+ - Wing Slot

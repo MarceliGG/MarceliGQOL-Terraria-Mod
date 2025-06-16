@@ -35,5 +35,15 @@ Configs: {
 			Label: Unlimited R Click Stations
 			Tooltip: Wheather to enable unlimited Right-clickable stations(Sharpening, Bewitching, etc.)(stations must be in player's safe). default: 'frue'
 		}
+
+		WingSlot: {
+			Tooltip: ""
+			Label: Wing Slot
+		}
+
+		Headers: {
+			AccesorySlots: Accesory Slots
+			UnlimitedBuffs: Unlimited Buffs
+		}
 	}
 }
