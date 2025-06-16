@@ -44,6 +44,12 @@ Configs: {
 		Headers: {
 			AccesorySlots: Accesory Slots
 			UnlimitedBuffs: Unlimited Buffs
+			Items: Items
+		}
+
+		HousePlacer: {
+			Label: House Placer
+			Tooltip: ""
 		}
 	}
 }

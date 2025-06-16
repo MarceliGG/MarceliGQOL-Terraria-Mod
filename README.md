@@ -9,3 +9,4 @@ This is a small qol mod for terraria.
  - Informational Accesories in Safe
  - Configurable
  - Wing Slot
+ - House Placer

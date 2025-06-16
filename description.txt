@@ -4,5 +4,6 @@ Features:
  - Quick Use Items from bottom inventory row with keybinds
  - Unlimited Potions (in Safe)
  - Unlimited Stations (in Safe)
+ - House Placer
  - Configurable
  - Wing Slot

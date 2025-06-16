@@ -25,5 +25,9 @@ public class ServerConfig : ModConfig {
     [Header("$Mods.MarceliGQOL.Configs.ServerConfig.Headers.AccesorySlots")]
 	[DefaultValue(true)]
 	public bool WingSlot;
-}
 
+    [Header("$Mods.MarceliGQOL.Configs.ServerConfig.Headers.Items")]
+	[DefaultValue(true)]
+	[ReloadRequired]
+	public bool HousePlacer;
+}
